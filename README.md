@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dauboau, Daniel, to be specific
 - 👀 I’m interested in technology, gaming, programming and Apple
-- 🌱 I’m currently learning Computer Engeneering in the University of São Paulo (USP)
+- 🌱 I’m currently learning Computer Science in the University of São Paulo (USP)
 - 💞️ I’m looking to collaborate on any innovative project that requires the skills a WIP programmer may offer
 - 📫 You may find me on Linkedin through this link: https://www.linkedin.com/in/daniel-contente-romanzini-721282192
 
